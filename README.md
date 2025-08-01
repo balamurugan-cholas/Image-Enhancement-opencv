@@ -7,7 +7,7 @@ This is a web-based application built with **Flask** and **OpenCV** that allows 
 
 ## 🌐 Live Demo
 
-> [🔗 Live Demo](https://image-enhancer.onrender.com)
+> [🔗 Live Demo](https://balamurugancholan.pythonanywhere.com/)
 
 ---
 
@@ -123,9 +123,9 @@ pip install Flask==2.3.3 opencv-python==4.9.0.80 numpy==1.26.4
 ## 📬 Author
 
 **Balamurugan Cholan**  
-[GitHub](https://github.com/balamurugan-cholan)  
-[LinkedIn](https://linkedin.com/in/yourprofile)  
-[Instagram](https://instagram.com/yourprofile)
+[GitHub](https://github.com/balamurugan-cholas)  
+[LinkedIn](https://in.linkedin.com/in/bala-murugan-6b73a7369)  
+[Instagram](https://www.instagram.com/post_maram/)
 
 ---
 

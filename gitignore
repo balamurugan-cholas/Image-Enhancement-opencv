@@ -1,0 +1,29 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Flask instance folder and env file
+instance/
+.env
+
+# Virtual environments
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Image uploads (optional)
+static/uploads/
+static/fixed/
+
+# Pytest cache
+.pytest_cache/
+
+# Logs
+*.log

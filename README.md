@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🖼️ Image Enhancement Web App using Flask + OpenCV
 
@@ -135,3 +136,7 @@ This project is open source.
 
 > 💡 A simple and clean interface for real-time image enhancement.  
 > Built with ❤️ using Flask and OpenCV.
+=======
+# Image-Enhancement-opencv
+A simple Flask-based web app that allows users to upload images and apply real-time enhancements using OpenCV filters like Gaussian Blur, Median Blur, and Bilateral Filter. Ideal for quick demos of image preprocessing techniques in image processing projects.
+>>>>>>> a91cef51aceafb690dfa3c74147d4f01abeab250

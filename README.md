@@ -58,7 +58,7 @@ image-enhancement-app/
 1. **Clone the Repository**
 
 ```
-git clone https://github.com/yourusername/image-enhancement-app.git
+git clone https://github.com/balamurugan-cholas/Image-Enhancement-opencv.git
 cd image-enhancement-app
 ```
 
